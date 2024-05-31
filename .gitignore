@@ -1,0 +1,7 @@
+notes.txt
+**/bin
+**/obj
+**/.vscode
+**/.vs
+**/.sln
+**/x64
