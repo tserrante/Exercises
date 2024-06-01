@@ -1,5 +1,10 @@
 ﻿namespace DistanceFile;
-
+/*
+3. Distance File
+Modify the program you wrote for Programming Challenge 2 (Distance Traveled) so it
+writes the report to a file instead of the screen. Open the file in Notepad or another text
+editor to confirm the output.
+*/
 public class Program
 {
     public static void Main(string[] args)

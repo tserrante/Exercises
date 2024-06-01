@@ -1,7 +1,14 @@
 ﻿
 
 namespace MultiplicationTable;
-
+/*
+1. Multiplication Table
+Write a program that displays a multiplication table. The program should ask the user to
+enter a number and also the range up to which the user wants to display the multiplication
+table. For example, the multiplication table for the number 3 up to range 2 would look like:
+3 x 1 = 3
+3 x 2 = 6
+*/
 public class Program
 {
     /*

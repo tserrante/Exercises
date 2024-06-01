@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "3_DistanceFile"
+		},
+		{
+			"path": "4_PenniesForPay"
+		},
+		{
+			"path": "5_UnicodeCharacters"
 		}
 	]
 }
