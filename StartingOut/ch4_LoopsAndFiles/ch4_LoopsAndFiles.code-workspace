@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "6_FileLetterCounter"
+		},
+		{
+			"path": "9_HotelOccupancy"
 		}
 	]
 }
