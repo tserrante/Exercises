@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "9_HotelOccupancy"
+		},
+		{
+			"path": "21_DiceGame"
 		}
 	]
 }
