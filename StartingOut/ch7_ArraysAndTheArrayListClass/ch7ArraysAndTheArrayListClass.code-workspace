@@ -5,6 +5,9 @@
         },
         {
             "path": "BinarySearch"
+        },
+        {
+            "path": "3_ChargeAccountValidation"
         }
     ]
 }
