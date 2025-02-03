@@ -11,6 +11,12 @@
         },
         {
             "path": "4_ChargeAccountModification"
+        },
+        {
+            "path": "10_LotteryApplication"
+        },
+        {
+            "path": "11_ArrayOperations"
         }
     ]
 }
